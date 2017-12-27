@@ -2,3 +2,6 @@ ale pieje dzisiaj.
 Dzisiaj juz nie pieje.
 A
 B
+C
+D
+E
